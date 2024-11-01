@@ -1,4 +1,4 @@
-## Syllabus
+## MLops Content
 
 ### [Module 1: Introduction](01-intro)
 
